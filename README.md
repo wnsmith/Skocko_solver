@@ -10,9 +10,9 @@ Simple app for solving **skočko** game from popular TV quiz "Slagalica".
   - GTK3
 
 # Run
-* download executable
-* chmod +x exxx
-* Run!
+* git clone https://github.com/wnsmith/Skocko_solver.git
+* ghc ex.hs
+* Run
 
 #  Authors
 * Strahinja Ivanović |  GitHub &bull; [Aleksej10](https://github.com/Aleksej10)  
